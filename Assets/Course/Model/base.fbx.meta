@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 8b7e567dea4f44e8aa05c8b3eb8fe680
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box
+    100004: Controls
+    100006: Herz_Scale_560_1300_Default
+    100008: pCube2
+    100010: pCube3
+    100012: pCube4
+    100014: pCube5
+    100016: pF_Less_Sass_CSS_Rotor
+    100018: pF_More_Rotor
+    100020: pF_Precicion_Rotor
+    100022: pF_Scale
+    100024: Platform
+    100026: Power_Switch
+    100028: Q_dQ_Scale
+    100030: Round_Scale
+    100032: Scale_Range_Selector
+    100034: Scales
+    400000: //RootNode
+    400002: Box
+    400004: Controls
+    400006: Herz_Scale_560_1300_Default
+    400008: pCube2
+    400010: pCube3
+    400012: pCube4
+    400014: pCube5
+    400016: pF_Less_Sass_CSS_Rotor
+    400018: pF_More_Rotor
+    400020: pF_Precicion_Rotor
+    400022: pF_Scale
+    400024: Platform
+    400026: Power_Switch
+    400028: Q_dQ_Scale
+    400030: Round_Scale
+    400032: Scale_Range_Selector
+    400034: Scales
+    2100000: lambert1
+    2300000: Box
+    2300002: Herz_Scale_560_1300_Default
+    2300004: pCube2
+    2300006: pCube3
+    2300008: pCube4
+    2300010: pCube5
+    2300012: pF_Less_Sass_CSS_Rotor
+    2300014: pF_More_Rotor
+    2300016: pF_Precicion_Rotor
+    2300018: pF_Scale
+    2300020: Platform
+    2300022: Power_Switch
+    2300024: Q_dQ_Scale
+    2300026: Round_Scale
+    2300028: Scale_Range_Selector
+    3300000: Box
+    3300002: Herz_Scale_560_1300_Default
+    3300004: pCube2
+    3300006: pCube3
+    3300008: pCube4
+    3300010: pCube5
+    3300012: pF_Less_Sass_CSS_Rotor
+    3300014: pF_More_Rotor
+    3300016: pF_Precicion_Rotor
+    3300018: pF_Scale
+    3300020: Platform
+    3300022: Power_Switch
+    3300024: Q_dQ_Scale
+    3300026: Round_Scale
+    3300028: Scale_Range_Selector
+    4300000: Box
+    4300002: Herz_Scale_560_1300_Default
+    4300004: Q_dQ_Scale
+    4300006: pF_Scale
+    4300008: Round_Scale
+    4300010: pF_Precicion_Rotor
+    4300012: pF_Less_Sass_CSS_Rotor
+    4300014: Power_Switch
+    4300016: pF_More_Rotor
+    4300018: Scale_Range_Selector
+    4300020: pCube3
+    4300022: pCube4
+    4300024: pCube5
+    4300026: pCube2
+    4300028: Platform
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
